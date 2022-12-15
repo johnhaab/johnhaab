@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @johnhaab
+- 👀 I’m interested in -- Frontend Development
+- 🌱 I’m currently learning -- HTML & CSS
+- 💞️ I’m looking to collaborate on -- Anything :)
+- 📫 How to reach me -- twitter.com/johnlhaab
