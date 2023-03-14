@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm John Haab</h1>
-<h3 align="center">A dedicated full-stack web developer</h3>
+<h3 align="center">A dedicated self-taught full-stack web developer</h3>
 
 - 🔭 I’m currently working on **a img-uploader**
 
