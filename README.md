@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **contact@johnhaab.xyz**
 
-- ⚡ Fun fact **I made Minecraft server plugins when I was younger.**
+- ⚡ Fun fact **I made Minecraft server plugins and mods (even my own cheatbreaker-ish launcher!) when I was younger.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
