@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm John Haab</h1>
 <h3 align="center">A dedicated self-taught full-stack web developer</h3>
 
-- 🔭 I’m currently working on **a minecraft launcher with ElectronJS.**
+- 🔭 I’m currently working on **Country-score (A website to view/rate different asepects of a country), Fabric Mod Development.**
 
-- 🌱 I’m currently learning **React, NodeJS, Express**
+- 🌱 I’m currently learning **React, NodeJS, Express.**
 
 - 👯 I’m looking to collaborate on **anything :)**
 
