@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm John Haab</h1>
 <h3 align="center">A dedicated self-taught full-stack web developer</h3>
 
-- 🔭 I’m currently working on **Country-score & it's backend. (A website to view/rate different asepects of a country)**
+- 🔭 I’m currently working on a **Full Youtube-Clone**
 
-- 🌱 I’m currently learning **Java for minecraft development, C# and Unity for game deve.**
+- 🌱 I’m currently learning **Typescript and SQL databases.**
 
 - 👯 I’m looking to collaborate on **Anything!**
 
@@ -14,7 +14,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/johnlhaab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="johnlhaab" height="30" width="40" /></a>
-<a href="[/johnlhaab](https://www.threads.net/@johnlhaab)" target="blank"><img align="center" src="https://seeklogo.com/images/T/threads-logo-E9BA734BF6-seeklogo.com.png?v=638252100960000000" alt="johnlhaab" height="30" width="40" /></a>
 </p>
 
 
