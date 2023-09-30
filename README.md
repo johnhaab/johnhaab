@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm John Haab</h1>
 <h3 align="center">A dedicated self-taught full-stack web developer</h3>
 
-- 🔭 I’m currently working on a **Youtube-Clone**
+- 🔭 I’m currently working on a **Old-Twitter-Clone**
 
-- 🌱 I’m currently learning **Typescript and SQL databases.**
+- 🌱 I’m currently learning **Typescript and Prisma.**
 
 - 👯 I’m looking to collaborate on **Anything!**
 
