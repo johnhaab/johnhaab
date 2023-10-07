@@ -37,6 +37,9 @@
                                                  |_|                                   `''--'              
 
 
+
+
+
  - 🔭 I'm currently working on 2 Full-stack social medias & a better personal site w/ a blog!
  - 🌱 I'm currently learning the T3 Stack, mainly Typescript.
  - 👯 I'm looking to collaborate on full stack web apps!
