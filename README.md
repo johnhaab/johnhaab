@@ -1,5 +1,5 @@
 ```
- - 🔭 I'm currently working on commisions.
+ - 🔭 I'm currently working on commissions.
  - 🌱 I'm currently learning Data Structures and Algorithms.
  - 💬 Ask me about food, cars, or fishing.
  - 📫 How to reach me: 
