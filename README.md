@@ -1,6 +1,6 @@
 ```
- - 🔭 I'm currently working on commissions.
- - 🌱 I'm currently learning Data Structures and Algorithms.
+ - 🔭 I'm currently working on ???.
+ - 🌱 I'm currently learning ???.
  - 💬 Ask me about food, cars, or fishing.
  - 📫 How to reach me: 
       - [discord](https://discord.com/users/265812495644491780)  
