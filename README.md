@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **john.haab@hiyllo.io**
 
-- 📄 Know about my experiences [TBD](TBD)
+- 📄 Know about my experiences [RESUME](TBD)
 
 - ⚡ Fun fact **I LOVE fishing. If I'm not coding or working on Hiyllo, I'm probably fishing.**
 
