@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnhaab&label=Profile%20views&color=0e75b6&style=flat" alt="johnhaab" /> </p>
 
-- 🔭 I’m currently working on [Lumera](https://www.lumera.dev)
+- 🔭 I’m currently working on [shello](https://www.shello.dev)
 
-- 🌱 I’m currently learning **Kubernetes & Micro Service Architecture**
+- 🌱 I’m currently learning **Rust**
 
 - 👨‍💻 All of my projects are available at [https://www.johnhaab.com](https://www.johnhaab.com)
 
