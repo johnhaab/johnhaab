@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm John Haab</h1>
-<h3 align="center">Chief Technology Officer @hiyllo.</h3>
+<h3 align="center">Founding Engineer/CTO @hiyllo.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnhaab&label=Profile%20views&color=0e75b6&style=flat" alt="johnhaab" /> </p>
 
