@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [RESUME](TBD)
 
-- ⚡ Fun fact **I LOVE fishing. If I'm not coding or working on Hiyllo, I'm probably fishing.**
+- ⚡ Fun fact **I LOVE fishing. If I'm not coding or working, I'm probably fishing.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
