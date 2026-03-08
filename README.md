@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@john.haab](https://medium.com/@john.haab)
 
-- 💬 Ask me about **React-Native, MoopsyJS, Hiyllo**
+- 💬 Ask me about **Lumera, Rust, TypeScript**
 
 - 📫 How to reach me **john.haab@hiyllo.io**
 
