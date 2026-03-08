@@ -13,8 +13,6 @@
 
 - 💬 Ask me about **Lumera, Rust, TypeScript**
 
-- 📫 How to reach me **john.haab@hiyllo.io**
-
 - 📄 Know about my experiences [RESUME](TBD)
 
 - ⚡ Fun fact **I LOVE fishing. If I'm not coding or working, I'm probably fishing.**
