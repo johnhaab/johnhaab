@@ -1,22 +1,5 @@
 <h1 align="center">Hi 👋, I'm John Haab</h1>
 <h3 align="center">Full Stack Engineer / Founder.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=johnhaab&label=Profile%20views&color=0e75b6&style=flat" alt="johnhaab" /> </p>
-
-- 🔭 I’m currently working on [shello](https://www.shello.dev)
-
-- 🌱 I’m currently learning **Rust**
-
-- 👨‍💻 All of my projects are available at [https://www.johnhaab.com](https://www.johnhaab.com)
-
-- 📝 I regularly write articles on [https://medium.com/@john.haab](https://medium.com/@john.haab)
-
-- 💬 Ask me about **Lumera, Rust, TypeScript**
-
-- 📄 Know about my experiences [RESUME](TBD)
-
-- ⚡ Fun fact **I LOVE fishing. If I'm not coding or working, I'm probably fishing.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/johnlhaab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="johnlhaab" height="30" width="40" /></a>
