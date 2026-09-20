@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm John Haab</h1>
-<h3 align="center">Full Stack Engineer / Founder.</h3>
+<h3 align="center">
+  I am a Full Stack Software Engineer, currently my main focus is my company <a href="https://yanvah.com">Yanvah</a>.
+</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/johnlhaab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="johnlhaab" height="30" width="40" /></a>
