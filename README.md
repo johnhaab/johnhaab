@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm John Haab</h1>
 <h3 align="center">
-  I am a Full Stack Software Engineer, currently my main focus is my company <a href="https://yanvah.com">Yanvah</a>.
+  I am a Full Stack Software Engineer, founder <a href="https://yanvah.com">Yanvah</a>.
 </h3>
 </br>
 </br>
